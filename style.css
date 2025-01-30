@@ -32,17 +32,17 @@ body {
 }
 
 #startBtn {
-    background-color: green;
+    background-color: rgb(25, 75, 25);
     color: white;
 }
 
 #stopBtn {
-    background-color: red;
+    background-color: rgb(246, 79, 79);
     color: white;
 }
 
 #resetBtn {
-    background-color: gray;
+    background-color: rgb(94, 78, 78);
     color: white;
 }
 
